@@ -2,4 +2,6 @@ fffffffffsssssf
 
 zzzz
 
-zhou  zhou zhou
+
+test-zhou222
+每次跟踪的是提交到暂存区的修改，不是文件
